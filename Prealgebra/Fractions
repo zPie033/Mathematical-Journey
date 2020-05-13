@@ -67,3 +67,31 @@ To sum it up, we first multiplied 12/15 by 1/12, then we multiplied it by 14, so
 12/15 x 1/12 x 14 = , which is equal to:
 12/15 x (1/12 x 14)
 So the number that we should multiply 12/15 by to get 14/15 is (1/12 x 14), which is equal to 14/12.
+In the next problems we are going to look at what happens when both the denominator and the numerator of the product do not appear in the terms multiplied to get that same product.
+
+
+6/5 x ? = 8/3
+
+Solution:
+
+In previous problems we explored how to go from a fraction to another through multiplication, when known fractions have either a coomon numerator or a common denominator,
+but what can we do when our known fractions do not have neither a common numerator nor a common denominator? Let's break up the problem
+into a smaller problem we already know how to solve: let's say that instead of
+6/5 x ? = 8/3 
+I have
+6/5 x ? = 8/5
+we already know how to solve this, we did that in previous problems:
+
+we want to cancel out the 6,
+since 6/5 = 6 x 1/5, we multiply 6/5 by 1/6:
+6 x 1/5 x 1/6 = 1/5
+
+We now have 1/5, and we want it to become 8/5,
+since 8/5 = 8 x 1/5, to go from 1/5 to 8/5, we must multiply 1/5 by 8:
+1/5 x 8 = 8/5
+
+To sum it up in this first smaller problem, we first multiplied 6/5 by 1/6, then we multiplied it by 8, so what we did is:
+6/5 x 1/6 x 8 = , which is equal to:
+6/5 x (1/6 x 8)
+So the number that we should multiply 6/5 by to get 8/5 is (1/6 x 8), which is equal to 8/6.
+(work in progress)
