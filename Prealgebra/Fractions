@@ -1,0 +1,54 @@
+Inspired by Problem 4.2.6, of The Art Of Problem Solving: Prealgebra
+
+5/9 x ? = 5/10
+
+Solution:
+We want to cancel out the 9, 
+since 5/9 = 5 x 1/9, we multiply 5/9 by 9:
+5/9 x 9 = 5
+
+We now have a 5, and we want it to become 5/10,
+since 5/10 = 5 x 1/10, to go from 5 to 5/10, we must multiply it by 1/10:
+5 x 1/10 = 5/10
+
+To sum it up, we first multiplied 5/9 by 9, then we multiplied it 1/10, so what we did is:
+5/9 x 9 x 1/10 = 5/10, which is equal to:
+5/9 x (9 x 1/10) = 5/10
+So the number that 5/9 should be multiplied by to get 5/10 is (9 x 1/10), which is equal to 9/10
+
+
+6/7 x ? = 6/9
+
+Solution:
+we want to cancel out the 7,
+since 6/7 = 6 x 1/7, we multiply 6/7 by 7:
+6/7 x 7 = 6
+
+We now have a 6, and we want it to become 6/9,
+since 6/9 = 6 x 1/9, to go from 6 to 6/9, we must multiply it by 1/9:
+6 x 1/9 = 6/9
+
+To sum it up, we first multiplied 6/7 by 7, then we multiplied it by 1/9, so what we did is:
+6/7 x 7 x 1/9 = 6/9, which is equal to:
+6/7 x (7 x 1/9)
+So the number that we should multiply 6/7 by to get 6/9 is (7 x 1/9), which is equal to 7/9.
+In the next problems we will look at what happens when the denominator stays constant in the product, but the numerator changes.
+
+
+7/13 x ? = 8/13
+
+Solution:
+we want to cancel out the 7,
+since 7/13 = 7 x 1/13, we multiply 7/13 by 1/7:
+7 x 1/13 x 1/7 = 1/13
+
+We now have 1/13, and we want it to become 8/13,
+since 8/13 = 8 x 1/13, to go from 1/13 to 8/13, we must multiply it by 8:
+8 x 1/13 = 8/13
+
+To sum it up, we first multiplied 7/13 by 1/7, then we multiplied it by 8, so what we did is:
+7/13 x 1/7 x 8 = , which is equal to:
+7/13 x (1/7 x 8)
+So the number that we should multiply 7/13 by to get 8/13 is (1/7 x 8), which is equal to 8/7.
+
+
