@@ -44,7 +44,7 @@ since 7/13 = 7 x 1/13, we multiply 7/13 by 1/7:
 
 We now have 1/13, and we want it to become 8/13,
 since 8/13 = 8 x 1/13, to go from 1/13 to 8/13, we must multiply it by 8:
-8 x 1/13 = 8/13
+1/13 x 8 = 8/13
 
 To sum it up, we first multiplied 7/13 by 1/7, then we multiplied it by 8, so what we did is:
 7/13 x 1/7 x 8 = , which is equal to:
@@ -52,3 +52,18 @@ To sum it up, we first multiplied 7/13 by 1/7, then we multiplied it by 8, so wh
 So the number that we should multiply 7/13 by to get 8/13 is (1/7 x 8), which is equal to 8/7.
 
 
+12/15 x ? = 14/15
+
+Solution:
+we want to cancel out the 12,
+since 12/15 = 12 x 1/15, we multiply 12/15 by 1/12:
+12 x 1/15 x 1/12 = 1/15
+
+We now have 1/15, and we want it to become 14/15,
+since 14/15 = 14 x 1/15, to go from 1/15 to 14/15, we must multiply it by 14:
+1/15 x 14 = 14/15
+
+To sum it up, we first multiplied 12/15 by 1/12, then we multiplied it by 14, so what we did is:
+12/15 x 1/12 x 14 = , which is equal to:
+12/15 x (1/12 x 14)
+So the number that we should multiply 12/15 by to get 14/15 is (1/12 x 14), which is equal to 14/12.
