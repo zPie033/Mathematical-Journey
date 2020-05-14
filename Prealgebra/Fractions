@@ -106,4 +106,16 @@ to 8/3 by multiplying 8/5 by 5/3. So:
 6/5 x (8/6 x 5/3) = 8/3
 The number we should multiply 6/5 by to get 8/3 is (8/6 x 5/3) = 40/18 = 20/9
 
+If a is dived by b, the result is 4/7
+if b is divided by c, the result is 14/15,
+what's a dived by c?
+
+Solution
+a divided by b is equal to 4/7 means a/b = 4/7,
+b dived by c is equal to 14/15 means b/c = 14/15,
+a/b x b/c = a x 1/b x b x 1/c = a/c
+so:
+a/c = 4/7 x 14/15 = 8/15
+
+
 
