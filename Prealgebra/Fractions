@@ -94,4 +94,16 @@ To sum it up in this first smaller problem, we first multiplied 6/5 by 1/6, then
 6/5 x 1/6 x 8 = , which is equal to:
 6/5 x (1/6 x 8)
 So the number that we should multiply 6/5 by to get 8/5 is (1/6 x 8), which is equal to 8/6.
-(work in progress)
+
+We now know that: 6/5 x 8/6 = 8/5
+We then want to go from 8/5 to 8/3, and we can do that by applying once again the same strategy used in previous problems and we'll find out that
+to go from 8/5 to 8/3, we must multiply 8/5 by 5/3.
+
+To sum it up what we've actually done is: we broke up the problem in two parts: rather than going directly from 6/5 to 8/3,
+we first went from 6/5 x 8/5, multiplying 6/5 by 8/6, since we already knew how to solve that, and we then went from 8/5
+to 8/3 by multiplying 8/5 by 5/3. So:
+6/5 x 8/6 x 5/3 = 8/3
+6/5 x (8/6 x 5/3) = 8/3
+The number we should multiply 6/5 by to get 8/3 is (8/6 x 5/3) = 40/18 = 20/9
+
+
